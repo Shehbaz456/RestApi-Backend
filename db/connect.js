@@ -4,7 +4,6 @@ uri = "mongodb+srv://Shehbaz:shehbazadmin@cluster0.i0xltzv.mongodb.net/cluster0?
 
 
 const connectDB = (uri) =>{
-    console.log("========== connect DB OK ========== ");
     return mongoose.connect(uri)
 } 
 

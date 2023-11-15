@@ -1,0 +1,51 @@
+[
+    {
+      "name": "iPhone 12 Pro",
+      "Prise": 19.99,
+      "featured": true,
+      "rating": 4.5,
+      "createdAt": "2023-11-15T12:34:56.789Z",
+      "company": "Amazon"
+    },
+    {
+      "name": "Windows 11",
+      "Prise": 29.99,
+      "featured": false,
+      "rating": 4.8,
+      "createdAt": "2023-11-15T12:35:56.789Z",
+      "company": "Microsoft"
+    },
+    {
+      "name": "Product 3",
+      "Prise": 39.99,
+      "featured": true,
+      "rating": 4.2,
+      "createdAt": "2023-11-15T12:36:56.789Z",
+      "company": "Dell"
+    },
+    {
+      "name": "Product 4",
+      "Prise": 49.99,
+      "featured": false,
+      "rating": 4.7,
+      "createdAt": "2023-11-15T12:37:56.789Z",
+      "company": "Apple"
+    },
+    {
+      "name": "Product 5",
+      "Prise": 59.99,
+      "featured": true,
+      "rating": 3.9,
+      "createdAt": "2023-11-15T12:38:56.789Z",
+      "company": "UrbanMonkey"
+    },
+    {
+      "name": "Product 40",
+      "Prise": 99.99,
+      "featured": true,
+      "rating": 4.2,
+      "createdAt": "2023-11-15T13:14:56.789Z",
+      "company": "UrbanMonkey"
+    }
+  ]
+  

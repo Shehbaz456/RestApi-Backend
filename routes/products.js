@@ -1,6 +1,5 @@
 const express = require("express");
 const router =  express.Router();
-console.log(__dirname);
 
 const { getAllProducts , getAllProductsTesting } = require("../controllers/products");
 
