@@ -4,7 +4,7 @@ uri = "mongodb+srv://Shehbaz:shehbazadmin@cluster0.i0xltzv.mongodb.net/cluster0?
 
 
 const connectDB = (uri) =>{
-    return mongoose.connect(uri)
+    return mongoose.connect(uri);
 } 
 
 
