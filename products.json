@@ -5,7 +5,7 @@
       "featured": true,
       "rating": 4.5,
       "createdAt": "2023-11-15T12:34:56.789Z",
-      "company": "Amazon"
+      "company": "Apple"
     },
     {
       "name": "Windows 11",
@@ -24,7 +24,15 @@
       "company": "Dell"
     },
     {
-      "name": "Product 4",
+      "name": "Mackbook",
+      "Prise": 49.99,
+      "featured": false,
+      "rating": 4.7,
+      "createdAt": "2023-11-15T12:37:56.789Z",
+      "company": "Apple"
+    },
+    {
+      "name": "iphone",
       "Prise": 49.99,
       "featured": false,
       "rating": 4.7,
@@ -37,7 +45,7 @@
       "featured": true,
       "rating": 3.9,
       "createdAt": "2023-11-15T12:38:56.789Z",
-      "company": "boat"
+      "company": "Boat"
     },
     {
       "name": "Product 40",
